@@ -28,8 +28,8 @@ pipeline {
 
 	stage('Deploy') {
 		steps {
-            echo "deployment started"
-        	sh "serverless deploy"
+            echo "npm deployment started"
+        	sh "npm run deploy"
 			echo "Serverless Deployment Complete!"
 		}
     }
