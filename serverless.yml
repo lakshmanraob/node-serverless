@@ -1,0 +1,19 @@
+service:
+  name: node-serverless
+
+provider:
+  name: aws
+  runtime:  nodejs12.x
+  stage: ${opt:stage, 'dev'} 
+  region: ${opt:region, 'us-east-1'} 
+
+functions:
+  ping:
+    handler: services/pingHandler.ping
+    events:
+      - http:
+          path: ping
+          method: get
+
+plugins:
+  -  serverless-offline

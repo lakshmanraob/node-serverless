@@ -1,0 +1,14 @@
+{
+  "name": "node-serverless",
+  "version": "1.0.0",
+  "description": "Starter template for creating aws lambda functions with Node Js",
+  "main": "serverless.yml",
+  "scripts": {
+    "deploy": "sls deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^6.5.0"
+  }
+}
