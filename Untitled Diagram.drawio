@@ -1,1 +1,168 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T08:13:31.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="bLxYD3PBb5gRyolri11M" type="github"><diagram id="fQsjuusSUMie_eY00KBy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-09T08:51:29.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="n4RqD2bAAVYlOJHMzLXN" version="15.7.0" type="github">
+  <diagram id="fQsjuusSUMie_eY00KBy" name="Page-1">
+    <mxGraphModel dx="4486" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RPorrHLqXQpMC3Zhs603-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-4" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="22" width="70" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RPorrHLqXQpMC3Zhs603-4" target="RPorrHLqXQpMC3Zhs603-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="270" as="sourcePoint" />
+            <mxPoint x="560" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-7" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RPorrHLqXQpMC3Zhs603-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="90" as="sourcePoint" />
+            <mxPoint x="200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="159.5" as="sourcePoint" />
+            <mxPoint x="360" y="159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.633;entryY=-0.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RPorrHLqXQpMC3Zhs603-6" target="RPorrHLqXQpMC3Zhs603-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="180" as="sourcePoint" />
+            <mxPoint x="220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-12" value="trigger &lt;br&gt;emails to practitioners" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-13" value="List of practitioner details&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="200" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-14" value="EMR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-15" value="Cloud Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-16" value="Firebase &lt;br&gt;RealTime Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-17" value="inserts data into &lt;br&gt;Firebase RealTime &lt;br&gt;Database" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-18" value="Practitioner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="434.5" as="sourcePoint" />
+            <mxPoint x="145" y="434.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-21" value="click" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="410" as="sourcePoint" />
+            <mxPoint x="390" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="435" as="sourcePoint" />
+            <mxPoint x="390" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-24" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-25" value="Firebase" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.firebase;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="RPorrHLqXQpMC3Zhs603-24">
+          <mxGeometry width="32.4" height="45" relative="1" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-26" value="Generate a OTP.&lt;br&gt;1. update Firebase&lt;br&gt;2. send the Latest OTP to &lt;br&gt;Practitioner over a mail" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="RPorrHLqXQpMC3Zhs603-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="480" as="sourcePoint" />
+            <mxPoint x="160" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="562" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-29" value="Redirected to Webpage with filled &lt;br&gt;Email and asking for OTP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="505" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.072;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RPorrHLqXQpMC3Zhs603-28" target="RPorrHLqXQpMC3Zhs603-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="572" as="sourcePoint" />
+            <mxPoint x="390" y="597" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-4/52/web__globe__data__technology__list__menu__webpage-128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="552" width="69" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-32" value="Connecting to Gardenia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-34" value="Verify the OTP and &lt;br&gt;establish the session" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="520" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="585" as="sourcePoint" />
+            <mxPoint x="430" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-37" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-38" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-39" value="2a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-40" value="2b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="130" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-41" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-42" value="Verification of email with &lt;br&gt;the Firebase realtime database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="285" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-43" value="4a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="285" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-44" value="4b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="490" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-45" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPorrHLqXQpMC3Zhs603-46" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
